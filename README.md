@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Some Photos Of Our Projext</h2>
+<h2 align="left">Some Photos Of Our Project</h2>
 
 ###
 
