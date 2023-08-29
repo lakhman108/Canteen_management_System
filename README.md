@@ -1,11 +1,15 @@
 # token management for canteen
--in this project we used php,mysql,xampp,html,css,bootstrap
-#
--we implemented basic crud operation inserting and deleting new items in dynamically with php
-#
--for user authentication we used mysql but with encryption for user saftey.
-#
--used captcha for preveting bot's.
+<h2 align="left">Tech Used</h2>
+<p>in this project we used php,mysql,xampp,html,css,bootstrap</p>
+<p>we implemented basic crud operation inserting and deleting new items in dynamically with php
+</p>
+<p>authenticating logged in user with session</p>
+<p>made cart with session</p>
+
+<p>for user authentication we used mysql but with encryption for user saftey.
+</p>
+<p>used captcha for preveting bot's.</p>
+
 
 ###
 
