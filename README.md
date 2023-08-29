@@ -26,10 +26,10 @@
   <img width="400" />
   <img src="3.png" height="300" alt="javascript logo"  />
   <img width="400" />
-  <img src="2.png" height="300" alt="javascript logo"  />
-  <img width="400" />
-  <img src="1.png" height="300" alt="javascript logo"  />
-  <img width="400" />
+  <img src="2.png" height="400" alt="javascript logo"  />
+  <img width="500" />
+  <img src="1.png" height="400" alt="javascript logo"  />
+  <img width="500" />
 
 </div>
 
